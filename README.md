@@ -11,4 +11,4 @@ Modifications are based on HyukjinKwon comment here: <https://github.com/apache/
 After you download and extract Apache Spark, replace this repo's pyspark folder with /spark_folder/python/pyspark
 
 ## Is it tested?
-Yes, I use this pyspark modification with Python 3.6.0 in production environment.
+This changes have been tested and passed. I also use this pyspark modification with Python 3.6.0 in production environment.
