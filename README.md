@@ -1,6 +1,8 @@
 # pysparkpython3.6.0
 Modified PySpark for Python 3.6.0
 
+Apache Spark Version: 2.1.0 Pre-built for Hadoop 2.7 and later
+
 What is Apache Spark: <http://spark.apache.org>
 
 Apache Spark License: <https://github.com/apache/spark/blob/master/LICENSE>
