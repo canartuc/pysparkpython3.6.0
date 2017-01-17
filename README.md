@@ -2,6 +2,7 @@
 Modified PySpark for Python 3.6.0
 
 What is Apache Spark: <http://spark.apache.org>
+
 Apache Spark License: <https://github.com/apache/spark/blob/master/LICENSE>
 
 Modifications are based on HyukjinKwon comment here: <https://github.com/apache/spark/pull/16429>
